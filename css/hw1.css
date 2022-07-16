@@ -1,5 +1,23 @@
 
+body{
+    margin: 5px;
+    padding :5px 15px;
+    background: black;
 
+}
+
+
+header{
+    background: #cff6cf;
+    text-align: center;
+    background-image: url(flywheel.jpg) ;
+    background-size: cover;
+    height :200%; 
+    padding-bottom: 5%;
+    display: block;
+    
+
+}
 
 h1{
     color: #FFFFFF;
